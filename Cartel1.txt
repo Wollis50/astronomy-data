@@ -1,0 +1,10 @@
+Sun: 	15.7
+Moon: 	210.3
+Mercury: 	75.2
+Venus: 	120.4
+Mars: 	300.6
+Jupiter: 	45.9
+Saturn: 	150.1
+Uranus: 	90.7
+Neptune: 	200.2
+Pluto: 	10.3
